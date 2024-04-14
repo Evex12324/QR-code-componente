@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-![Visualização do design para o desafio de codificação de componentes de código QR](./design/desktop-preview.jpg)
+![Visualização do design para o desafio de codificação de componentes de código QR](https://evex12324.github.io/Frontend-Mentor-QR-code-component/)
 
 ## Bem-vindo! 👋
 
