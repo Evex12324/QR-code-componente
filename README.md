@@ -2,10 +2,8 @@
 
 ![Visualização do design para o desafio de codificação de componentes de código QR](./capa-do-projeto.png)
 
-'''ruby
 ## Bem-vindo! 👋
 Obrigado por ver meu projeto!
-'''
 
 ## Descrição do projeto 😀
 Esse projeto aborda sobre um QR code do FrontendMentor, que leva o usuário ao site.
