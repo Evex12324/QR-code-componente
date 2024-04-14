@@ -5,6 +5,7 @@
 '''ruby
 ## Bem-vindo! 👋
 Obrigado por ver meu projeto!
+'''
 
 ## Descrição do projeto 😀
 Esse projeto aborda sobre um QR code do FrontendMentor, que leva o usuário ao site.
@@ -22,4 +23,3 @@ FrontendMentor
 Pedro de Carvalho
 
 **Compartilhe este repositório!** 🚀
-'''
