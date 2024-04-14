@@ -1,8 +1,8 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+![Visualização do design para o desafio de codificação de componentes de código QR](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Bem-vindo! 👋
 
 Thanks for checking out this front-end coding challenge.
 
